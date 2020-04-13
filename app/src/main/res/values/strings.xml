@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Get Github</string>
+    <string name="username">Username</string>
+    <string name="search">Search</string>
+
+    <string name="com_auth0_client_id">kgAvOeFTXOaTFT5bWzzAS9wvkpLHblq4</string>
+    <string name="com_auth0_domain">dinhdeveloper.auth0.com</string>
+</resources>

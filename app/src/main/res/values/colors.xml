@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="blue">#6064FC</color>
+    <color name="bloodred">#FA0606</color>
+    <color name="pink">#FF4081</color>
+    <color name="bgBottomNavigation">#17DDF7</color>
+    <color name="crimson">#DA0909</color>
+    <color name="gold_yellow">#F1CB0F</color>
+    <color name="text">#090909</color>
+    <color name="blueColor">#ff0099cc</color>
+    <color name="whileColor">#FFFFFF</color>
+    <color name="button">#abe9e9e9</color>
+    <color name="green">#4A7521</color>
+    <color name="maudo">#CCFF0000</color>
+    <color name="maucam">#F44234</color>
+    <color name="blacktest">#4aa5fe</color>
+    <color name="lightgreen">#84D333</color>
+    <color name="colorRed">#e70004</color>
+    <color name="dennhat">#AB2B2828</color>
+    <color name="denvua">#252323</color>
+    <color name="xanhduong">#5784f7</color>
+    <color name="blackfive">#F3F1F1</color>
+    <color name="black">#2F3137</color>
+    <color name="mediumblack">#212121</color>
+    <color name="lightblack">#9E9797</color>
+    <color name="blackone">#817C7C</color>
+    <color name="blacktwo">#2D333C</color>
+    <color name="hinhnen">#353848</color>
+    <color name="blackthree">#4D4E50</color>
+    <color name="trang">#FFFFFF</color>
+    <color name="momo">#990066</color>
+    <color name="release">#616161</color>
+    <color name="placeholder_bg">#FFFCFC</color>
+</resources>
